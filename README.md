@@ -15,7 +15,7 @@ Software developer based in Ukraine
 
     Self employed, freelancing
 
-    ***todo***
+    > *Web crawling and scraping, automated text processing, web development and SEO*
 
 - 2014 - 2019
 
@@ -58,6 +58,10 @@ Software developer based in Ukraine
     > *Supporting various in-house legacy systems and developing next version of payroll accounting system*
 
 ## Technologies
+
+- 2021
+
+    Rust
 
 - 2018
 
