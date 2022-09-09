@@ -1,6 +1,6 @@
 # Eugene Pobochny
 
-Software developer based in Ukraine
+Fullstack web developer from Ukraine with 10+ years of experience. Currently specializing in MEAN/MERN stack. Recent work areas: building web sites, PWAs, admin portals with analytics and reports, technical SEO optimization, building custom web scrapers and crawlers.
 
 ## Contacts
 
